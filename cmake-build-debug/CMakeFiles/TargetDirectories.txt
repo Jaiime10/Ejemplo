@@ -1,0 +1,3 @@
+C:/Users/canas/OneDrive/Documentos/GitHub/Ejemplo/cmake-build-debug/CMakeFiles/Ejemplo.dir
+C:/Users/canas/OneDrive/Documentos/GitHub/Ejemplo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/canas/OneDrive/Documentos/GitHub/Ejemplo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
